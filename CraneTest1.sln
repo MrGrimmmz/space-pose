@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CraneTest1", "CraneTest1\CraneTest1.vcxproj", "{7C4962BA-65A4-4C31-B1AE-68E3E99D5811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C4962BA-65A4-4C31-B1AE-68E3E99D5811}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7C4962BA-65A4-4C31-B1AE-68E3E99D5811}.Debug|Win32.Build.0 = Debug|Win32
+		{7C4962BA-65A4-4C31-B1AE-68E3E99D5811}.Debug|x64.ActiveCfg = Debug|Win32
+		{7C4962BA-65A4-4C31-B1AE-68E3E99D5811}.Debug|x64.Build.0 = Debug|Win32
+		{7C4962BA-65A4-4C31-B1AE-68E3E99D5811}.Release|Win32.ActiveCfg = Release|Win32
+		{7C4962BA-65A4-4C31-B1AE-68E3E99D5811}.Release|Win32.Build.0 = Release|Win32
+		{7C4962BA-65A4-4C31-B1AE-68E3E99D5811}.Release|x64.ActiveCfg = Release|Win32
+		{7C4962BA-65A4-4C31-B1AE-68E3E99D5811}.Release|x64.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
